@@ -1,2 +1,4 @@
 *.sh
 *.csv
+# Ignore all virtual environment folders named 'venv' in any path
+**/venv/
